@@ -2,11 +2,11 @@
 
 ## Purpose
 
-This note is for jotting down possible opportunties where Web3.0 technologies and cooperatives (generally centered on tech and platform cooperatives) can come together to provide free/open technologies to users via technology and platform cooperatives.
+This note is for jotting down possible opportunities where Web3.0 technologies and cooperatives (generally centered on tech and platform cooperatives) can come together to provide free and open source technologies to users that can preserve user-autonomy and instill democratic governance.
 
 ## Possible Synergies
 
-You may find possible synergies we and other contributes have contemplated below. 
+You may find possible synergies contributors have contemplated below. 
 
 If you have any questions, comments or other feedback, please leave a comment on the specific synergy(ies). 
 
@@ -21,8 +21,14 @@ If you have any questions, comments or other feedback, please leave a comment on
 5. Platform cooperatives utilizing Web3 wallets for user identity, login/out and authentication 
 6. Cooperatives creating a mutual credit token to be exchanged among partner cooperatives
 7. Cooperatives advising Web3.0 projects on applying democratic governance within their own communities 
-8. Possible collaboration between Stocksy United and Creativechain to use the Creativechain blockchain and the Creary DApp for selling Stocksy United's stock photos (primarily lesser value stock photos).
+8. DeFi or OpenFi projects partnering with Credit Unions, CUledger, or even Filene Research Institute to test their products in real-world settings
+9. Cooperatives acting as fiscal hosts for legally unincorporated p2p networks  so that they can interact with traditional financial systems
+10. Cooperatives accepting cryptocurrencies (or tokens) as a community currency to support the local economy, pursuant to principle seven.
+11. Possible collaboration between Stocksy United and Creativechain to use the Creativechain blockchain and the Creary DApp for selling Stocksy United's stock photos (primarily lesser value stock photos).
+12. A cooperative-owned, privacy-preserving web browser that interacts with Web3 technologies.
 
 ## Resources
 
-1. [Cloud storage Cooperatives](https://ioo.coop/directory/clouds/)
+1. [Cloud Storage Cooperatives and Commons](https://ioo.coop/directory/clouds/)
+2. [List of Blockchain Cooperatives](https://docs.ledgerback.coop/resources/directories#blockchain-and-other-web-3-0-cooperatives)
+3. [Open Source repos from Cooperatives](https://coophub.io/)
