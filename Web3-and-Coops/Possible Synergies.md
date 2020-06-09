@@ -21,6 +21,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 5. Platform cooperatives utilizing Web3 wallets for user identity, login/out and authentication 
 6. Cooperatives creating a mutual credit token to be exchanged among partner cooperatives
 7. Cooperatives advising Web3.0 projects on applying democratic governance within their own communities 
+8. Possible collaboration between Stocksy United and Creativechain to use the Creativechain blockchain and the Creary DApp for selling Stocksy United's stock photos (primarily lesser value stock photos).
 
 ## Resources
 
