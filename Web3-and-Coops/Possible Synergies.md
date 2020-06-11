@@ -27,6 +27,8 @@ If you have any questions, comments or other feedback, please leave a comment on
 11. Possible collaboration between Stocksy United and Creativechain to use the Creativechain blockchain and the Creary DApp for selling Stocksy United's stock photos (primarily lesser value stock photos).
 12. A cooperative-owned, privacy-preserving web browser that interacts with Web3 technologies.
 13. A Cooperative developing a node operator on the Chainlink network for democratizing data oracles
+14. Data Cooperatives using the blockchain to track changes in their datastore
+15. Data Cooperatives using data platforms such as Ocean Protocol, Streamr, and SingularityNet
 
 ## Resources
 
