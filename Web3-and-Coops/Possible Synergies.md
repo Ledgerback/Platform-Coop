@@ -26,6 +26,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 10. Cooperatives accepting cryptocurrencies (or tokens) as a community currency to support the local economy, pursuant to principle seven.
 11. Possible collaboration between Stocksy United and Creativechain to use the Creativechain blockchain and the Creary DApp for selling Stocksy United's stock photos (primarily lesser value stock photos).
 12. A cooperative-owned, privacy-preserving web browser that interacts with Web3 technologies.
+13. A Cooperative developing a node operator on the Chainlink network for democratizing data oracles
 
 ## Resources
 
