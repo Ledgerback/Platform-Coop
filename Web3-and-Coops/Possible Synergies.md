@@ -29,6 +29,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 13. A Cooperative developing a node operator on the Chainlink network for democratizing data oracles
 14. Data Cooperatives using the blockchain to track changes in their datastore
 15. Data Cooperatives using data platforms such as Ocean Protocol, Streamr, and SingularityNet
+16. A platform cooperative developing intelligent assistants which are accessible on a blockchain
 
 ## Resources
 
