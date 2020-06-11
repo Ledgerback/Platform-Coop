@@ -30,6 +30,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 14. Data Cooperatives using the blockchain to track changes in their datastore
 15. Data Cooperatives using data platforms such as Ocean Protocol, Streamr, and SingularityNet
 16. A platform cooperative developing intelligent assistants which are accessible on a blockchain
+17. A platform cooperative offering data storage or pinning services on a distributed data storage provider such as the InterPlantery File System, Siacoin, and Filecoin.
 
 ## Resources
 
