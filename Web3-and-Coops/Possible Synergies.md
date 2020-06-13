@@ -31,9 +31,11 @@ If you have any questions, comments or other feedback, please leave a comment on
 15. Data Cooperatives using data platforms such as Ocean Protocol, Streamr, and SingularityNet
 16. A platform cooperative developing intelligent assistants which are accessible on a blockchain
 17. A platform cooperative offering data storage or pinning services on a distributed data storage provider such as the InterPlantery File System, Siacoin, and Filecoin.
+18. WIR bank creating a DeFi product (specifically, a mutual credit network), and a DAO to manage such a project.
 
 ## Resources
 
 1. [Cloud Storage Cooperatives and Commons](https://ioo.coop/directory/clouds/)
 2. [List of Blockchain Cooperatives](https://docs.ledgerback.coop/resources/directories#blockchain-and-other-web-3-0-cooperatives)
 3. [Open Source repos from Cooperatives](https://coophub.io/)
+4. [Four Co-ops With Their Own Currency](https://coop.exchange/blog/93cc25d6-a993-11ea-b711-06ceb0bf34bd/four-co-ops-with-their-own-currency)
