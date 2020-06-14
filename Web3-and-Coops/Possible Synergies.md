@@ -32,6 +32,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 16. A platform cooperative developing intelligent assistants which are accessible on a blockchain
 17. A platform cooperative offering data storage or pinning services on a distributed data storage provider such as the InterPlantery File System, Siacoin, and Filecoin.
 18. WIR bank creating a DeFi product (specifically, a mutual credit network), and a DAO to manage such a project.
+19. A cooperative-based custodian for cryptocurrency wallets (i.e., a crypto-custodian)
 
 ## Resources
 
