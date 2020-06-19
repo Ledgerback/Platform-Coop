@@ -35,6 +35,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 19. A cooperative-based custodian for cryptocurrency wallets (i.e., a crypto-custodian).
 20. A cooperative offering a client for a blockchain protocol.
 21. A cooperative federation creating a blockchain protocol and allowing cooperative members to create clients for the blockchain protocol.
+22. A cooperative using a token bonding curve to offer membership shares to the general public.
 
 ## Resources
 
