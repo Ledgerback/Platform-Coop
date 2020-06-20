@@ -36,6 +36,8 @@ If you have any questions, comments or other feedback, please leave a comment on
 20. A cooperative offering a client for a blockchain protocol.
 21. A cooperative federation creating a blockchain protocol and allowing cooperative members to create clients for the blockchain protocol.
 22. A cooperative using a token bonding curve to offer membership shares to the general public.
+23. A cooperative using a token curated registry to create a curated list of items in a multistakeholder model where requestors are members and curators are members. 
+24. A cooperative using OrgTech to handle their corporate governance matters. 
 
 ## Resources
 
