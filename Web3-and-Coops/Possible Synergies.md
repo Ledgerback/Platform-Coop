@@ -40,6 +40,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 24. A cooperative using OrgTech to handle their corporate governance matters. 
 25. A cooperative federation funding local cooperatives developing a search engine that can be paid for with cryptocurrency
 26. A cooperative (e.g., Fairmondo or CoopExchange) developing a blockchain-based marketplace on the Ethereum blockchain with 0x.
+27. A cooperative setting up a timebank exchange where people can trade services-for-services or simply monetary remuneration.
 
 ## Resources
 
