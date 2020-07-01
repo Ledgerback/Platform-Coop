@@ -31,7 +31,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 15. Data Cooperatives using data platforms such as Ocean Protocol, Streamr, and SingularityNet
 16. A platform cooperative developing intelligent assistants which are accessible on a blockchain
 17. A platform cooperative offering data storage or pinning services on a distributed data storage provider such as the InterPlantery File System, Siacoin, and Filecoin.
-18. WIR bank creating a DeFi product (specifically, a mutual credit network), and a DAO to manage such a project.
+18. WIR bank creating a DeFi product (specifically, a mutual credit network) that is accessible to individuals, cooperatives, or both, and a DAO to manage such a project (for multi-stakeholder considerations).
 19. A cooperative-based custodian for cryptocurrency wallets (i.e., a crypto-custodian).
 20. A cooperative offering a client for a blockchain protocol.
 21. A cooperative federation creating a blockchain protocol and allowing cooperative members to create clients for the blockchain protocol.
@@ -39,6 +39,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 23. A cooperative using a token curated registry to create a curated list of items in a multistakeholder model where requestors are members and curators are members. 
 24. A cooperative using OrgTech to handle their corporate governance matters. 
 25. A cooperative federation funding local cooperatives developing a search engine that can be paid for with cryptocurrency
+26. A cooperative (e.g., Fairmondo or CoopExchange) developing a blockchain-based marketplace on the Ethereum blockchain with 0x.
 
 ## Resources
 
@@ -46,3 +47,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 2. [List of Blockchain Cooperatives](https://docs.ledgerback.coop/resources/directories#blockchain-and-other-web-3-0-cooperatives)
 3. [Open Source repos from Cooperatives](https://coophub.io/)
 4. [Four Co-ops With Their Own Currency](https://coop.exchange/blog/93cc25d6-a993-11ea-b711-06ceb0bf34bd/four-co-ops-with-their-own-currency)
+5. [What would a Co-op Coin ICO look like?](https://open.coop/2018/01/25/co-op-coin-ico-look-like/)
+6. [Growing the Co-operative Economy](https://docs.google.com/document/d/1xIo5CHNXO5DruuFP7Ek47O2ETJbQIt8a7ImYs00E740/edit)
+7. [Co-operative Exchange Token](https://community.coops.tech/t/co-operative-exchange-token/505)
+8. [Dear Blockchain, You Were Not the First Decentralized Network.](https://medium.com/swlh/dear-blockchain-you-were-not-the-first-decentralized-network-65a37b5ed393)
