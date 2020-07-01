@@ -40,7 +40,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 24. A cooperative using OrgTech to handle their corporate governance matters. 
 25. A cooperative federation funding local cooperatives developing a search engine that can be paid for with cryptocurrency
 26. A cooperative (e.g., Fairmondo or CoopExchange) developing a blockchain-based marketplace on the Ethereum blockchain with 0x.
-27. A cooperative setting up a timebank exchange where people can trade services-for-services or simply monetary remuneration.
+27. A cooperative setting up a timebank exchange where people can trade services-for-services or simply monetary remuneration (a la Helsinki Timebank)[9].
 
 ## Resources
 
@@ -52,3 +52,5 @@ If you have any questions, comments or other feedback, please leave a comment on
 6. [Growing the Co-operative Economy](https://docs.google.com/document/d/1xIo5CHNXO5DruuFP7Ek47O2ETJbQIt8a7ImYs00E740/edit)
 7. [Co-operative Exchange Token](https://community.coops.tech/t/co-operative-exchange-token/505)
 8. [Dear Blockchain, You Were Not the First Decentralized Network.](https://medium.com/swlh/dear-blockchain-you-were-not-the-first-decentralized-network-65a37b5ed393)
+9. [Helsinki Timebank’s ABC : working principles and Tovi-etiquette](https://stadinaikapankki.wordpress.com/in-english/helsinki-timebanks-abc/)
+10. [THE CREDIT COMMONS: A MONEY FOR THE SOLIDARITY ECONOMY](http://creditcommons.net/credit-commons.pdf)
