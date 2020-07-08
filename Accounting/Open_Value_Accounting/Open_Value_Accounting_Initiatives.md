@@ -1,0 +1,1 @@
+- [Existing Open Value or Contribution Accounting initiatives](https://docs.google.com/document/d/1UK9eWFjQRbGtF7wAMBNyntT7kZNpvSIe5cSY_VAuE0Q/edit?ts=5ca0a07c#heading=h.hnkfq6amf134)
