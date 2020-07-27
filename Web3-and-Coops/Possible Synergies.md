@@ -42,6 +42,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 26. A cooperative (e.g., Fairmondo or CoopExchange) developing a blockchain-based marketplace on the Ethereum blockchain with 0x.
 27. A cooperative setting up a timebank exchange where people can trade services-for-services or simply monetary remuneration (a la Helsinki Timebank)[9].
 28. A cooperative of freelancers developing a services market a la UpWork with the aid of blockchain and smart contracts. 
+29. A credit union or CUledger offering prize-linked savings accounts on the blockchain a la PoolTogether. 
 
 ## Resources
 
@@ -55,3 +56,4 @@ If you have any questions, comments or other feedback, please leave a comment on
 8. [Dear Blockchain, You Were Not the First Decentralized Network.](https://medium.com/swlh/dear-blockchain-you-were-not-the-first-decentralized-network-65a37b5ed393)
 9. [Helsinki Timebank’s ABC : working principles and Tovi-etiquette](https://stadinaikapankki.wordpress.com/in-english/helsinki-timebanks-abc/)
 10. [THE CREDIT COMMONS: A MONEY FOR THE SOLIDARITY ECONOMY](http://creditcommons.net/credit-commons.pdf)
+11. [Prize-linked Savings Accounts](https://www.thebalance.com/what-are-prize-linked-savings-accounts-4587608)
