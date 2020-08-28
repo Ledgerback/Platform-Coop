@@ -43,6 +43,7 @@ If you have any questions, comments or other feedback, please leave a comment on
 27. A cooperative setting up a timebank exchange where people can trade services-for-services or simply monetary remuneration (a la Helsinki Timebank)[9].
 28. A cooperative of freelancers developing a services market a la UpWork with the aid of blockchain and smart contracts. 
 29. A credit union or CUledger offering prize-linked savings accounts on the blockchain a la PoolTogether. 
+30. A cooperative for supply chain management that utilizes a blockchain for tracking and authenticating the lifecycle of parts.
 
 ## Resources
 
