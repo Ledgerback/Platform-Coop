@@ -20,7 +20,7 @@ Thoughts on the conditions that may make a platform cooperative a better busines
 - VC-backed organizations
   - look for businesses with unsustainable business models that can only make sense with VC funding
 - User Roles
-  - look for the ability for individuals to take on new roles that provide value
+  - look for the ability for individuals to take on new roles that provide value (and the possibility of taking on multiple roles at the same time)
 - Intermediaries
   - Look for the existence of intermediers (especially brokers who are only rent-seeking)
 - Invisible labor or under-paid labor
