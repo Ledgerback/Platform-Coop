@@ -33,3 +33,5 @@ Thoughts on the conditions that may make a platform cooperative a better busines
   - Look for tensions between sides/stakeholders (Exlcuding platform owner) of the platform 
 - Commerical use of community repositories/technologies
   - Look for issues where the commerical use of the technology or platform intentially impedes the growth/innovation of the technology or the beneit of the platform owner/organization
+- Core Technology
+  - Look for situations when the core technology guides organizations to be centralized (e.g., AI/ML)
